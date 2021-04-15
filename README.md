@@ -1,2 +1,2 @@
 # RMA-LV2
-Second assignment for Mobile Platform Application Programming
+Second assignment for course Mobile Platform Application Development
